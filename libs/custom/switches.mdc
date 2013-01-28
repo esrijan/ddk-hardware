@@ -1,0 +1,14 @@
+PCBNEW-LibDoc----V1  Monday 28 January 2013 03:21:26 PM IST
+#
+$MODULE sw_dpdt
+Li sw_dpdt
+Cd DPDT 2-way switch
+$EndMODULE
+#
+$MODULE sw_push_s
+Li sw_push_s
+Cd Small push button switch
+Kw PUSH SWITCH
+$EndMODULE
+#
+$EndLIBDOC

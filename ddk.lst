@@ -1,0 +1,155 @@
+eeschema (2010-03-13)-final  >> Creation date: Wednesday 13 February 2013 04:58:03 AM IST
+
+#Cmp ( order = Reference )
+| BT1        BATTERY     
+| C1         0.1uF       
+| C2         0.1uF       
+| C3         22pF        
+| C4         22pF        
+| C5         1uF         
+| C6         1uF         
+| C7         1uF         
+| C8         1uF         
+| C9         1uF         
+| C10        0.1uF       
+| C11        0.1uF       
+| Conn1      USB         
+| D1         PWR         
+| D2         3.3V        
+| D3         PGM         
+| D4         3.3V        
+| D6         B0          
+| D7         B1          
+| D8         B2          
+| D9         B3          
+| D10        B4          
+| D11        B5          
+| D12        B6          
+| D13        B7          
+| D14        IR          
+| D15        G_PROT      
+| IC1        ATMEGA16/32 
+| IC2        4094N       
+| IC3        DS1307      
+| J2         DB9         
+| JP1        RX          
+| JP2        TX          
+| LCD1       CLCD 2X16   
+| P1         Vin         
+| P4         GND (0V)    
+| P5         PA7-0       
+| P6         PC7-0       
+| P7         CC          
+| P8         Vcc (5V)    
+| P9         POWER       
+| P10        DIGITAL     
+| P11        DIGITAL 2   
+| P12        PB0-7       
+| P13        ICSP        
+| R1         150R        
+| R3         39K         
+| R4         150R        
+| R5         68R         
+| R6         68R         
+| R7         1.5K        
+| R8         150R        
+| R9         150R        
+| R10        150R        
+| R11        150R        
+| R12        150R        
+| R13        150R        
+| R14        150R        
+| R15        150R        
+| R16        120R        
+| R17        150R        
+| R18        22K         
+| R19        22K         
+| RV1        CONT-1K     
+| RV2        BRGT-10K    
+| SW1        POWER       
+| SW2        BUTTON      
+| SW3        RESET       
+| SW4        DOWNLOAD    
+| U1         LM7805      
+| U3         MAX232      
+| X1         16MHz       
+| X2         32.768KHz   
+#End Cmp
+
+#Cmp ( order = Value )
+| 0.1uF        C1        
+| 0.1uF        C2        
+| 0.1uF        C10       
+| 0.1uF        C11       
+| 1.5K         R7        
+| 120R         R16       
+| 150R         R1        
+| 150R         R4        
+| 150R         R8        
+| 150R         R9        
+| 150R         R10       
+| 150R         R11       
+| 150R         R12       
+| 150R         R13       
+| 150R         R14       
+| 150R         R15       
+| 150R         R17       
+| 16MHz        X1        
+| 1uF          C5        
+| 1uF          C6        
+| 1uF          C7        
+| 1uF          C8        
+| 1uF          C9        
+| 22K          R18       
+| 22K          R19       
+| 22pF         C3        
+| 22pF         C4        
+| 3.3V         D2        
+| 3.3V         D4        
+| 32.768KHz    X2        
+| 39K          R3        
+| 4094N        IC2       
+| 68R          R5        
+| 68R          R6        
+| ATMEGA16/32  IC1       
+| B0           D6        
+| B1           D7        
+| B2           D8        
+| B3           D9        
+| B4           D10       
+| B5           D11       
+| B6           D12       
+| B7           D13       
+| BATTERY      BT1       
+| BRGT-10K     RV2       
+| BUTTON       SW2       
+| CC           P7        
+| CLCD 2X16    LCD1      
+| CONT-1K      RV1       
+| DB9          J2        
+| DIGITAL      P10       
+| DIGITAL 2    P11       
+| DOWNLOAD     SW4       
+| DS1307       IC3       
+| G_PROT       D15       
+| GND (0V)     P4        
+| ICSP         P13       
+| IR           D14       
+| LM7805       U1        
+| MAX232       U3        
+| PA7-0        P5        
+| PB0-7        P12       
+| PC7-0        P6        
+| PGM          D3        
+| POWER        P9        
+| POWER        SW1       
+| PWR          D1        
+| RESET        SW3       
+| RX           JP1       
+| TX           JP2       
+| USB          Conn1     
+| Vcc (5V)     P8        
+| Vin          P1        
+#End Cmp
+
+#End List

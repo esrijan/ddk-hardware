@@ -1,0 +1,9 @@
+PCBNEW-LibDoc----V1  Wednesday 26 December 2012 12:45:09 PM IST
+#
+$MODULE C1/16
+Li C1/16
+Cd Capacitor total diameter 0.15in - pin distance 1/16 or 0.0625in
+Kw C
+$EndMODULE
+#
+$EndLIBDOC

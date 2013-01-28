@@ -1,0 +1,41 @@
+PCBNEW-LibModule-V1  Wednesday 26 December 2012 11:56:52 PM IST
+$INDEX
+pot_sq
+$EndINDEX
+$MODULE pot_sq
+Po 0 0 0 15 50DADD7B 00000000 ~~
+Li pot_sq
+Cd Square shaped variable pot. Model No: 3386
+Kw Variable Pot
+Sc 00000000
+AR
+Op 0 0 0
+T0 70 -1000 600 600 0 120 N I 21 N"pot_sq"
+T1 0 1800 600 600 0 120 N V 21 N"RV***"
+DS 2000 2250 2000 -1750 50 21
+DS 2000 -1750 -2000 -1750 50 21
+DS -2000 -1750 -2000 2250 50 21
+DS -2000 2250 2000 2250 50 21
+$PAD
+Sh "1" C 550 550 0 0 0
+Dr 320 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po -1000 0
+$EndPAD
+$PAD
+Sh "2" C 550 550 0 0 0
+Dr 320 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po 0 1000
+$EndPAD
+$PAD
+Sh "3" C 550 550 0 0 0
+Dr 320 0 0
+At STD N 0000FFFF
+Ne 0 ""
+Po 1000 0
+$EndPAD
+$EndMODULE  pot_sq
+$EndLIBRARY
