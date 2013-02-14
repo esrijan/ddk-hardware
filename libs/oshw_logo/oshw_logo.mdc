@@ -1,0 +1,9 @@
+PCBNEW-LibDoc----V1  Thu 12 Feb 2013 02:53:26 PM CDT
+#
+$MODULE oshw_logo
+Li oshw_logo
+Cd OSHW LOGO
+Kw Open Source Hardware Logo
+$EndMODULE
+#
+$EndLIBDOC
