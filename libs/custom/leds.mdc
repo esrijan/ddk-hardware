@@ -1,3 +1,9 @@
-PCBNEW-LibDoc----V1  Tuesday 26 December 2012 12:16:00 AM IST
+PCBNEW-LibDoc----V1  Friday 15 February 2013 04:20:07 PM IST
+#
+$MODULE LED3
+Li LED3
+Cd Led total diameter 4mm - internal 3mm
+Kw LED DEV
+$EndMODULE
 #
 $EndLIBDOC

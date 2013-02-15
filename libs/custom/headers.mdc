@@ -1,4 +1,4 @@
-PCBNEW-LibDoc----V1  Wednesday 26 December 2012 03:14:09 PM IST
+PCBNEW-LibDoc----V1  Friday 15 February 2013 07:00:07 PM IST
 #
 $MODULE header-1
 Li header-1
@@ -12,9 +12,9 @@ Cd Header: 2 Pins
 Kw Headers
 $EndMODULE
 #
-$MODULE header-4
-Li header-4
-Cd Header: 4 Pins
+$MODULE header-3
+Li header-3
+Cd Header: 3 Pins
 Kw Headers
 $EndMODULE
 #
@@ -234,9 +234,243 @@ Cd Header: 40 Pins
 Kw Headers
 $EndMODULE
 #
-$MODULE header-3
-Li header-3
-Cd Header: 3 Pins
+$MODULE header-2x2
+Li header-2x2
+Cd Header: 2x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-3x2
+Li header-3x2
+Cd Header: 3x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-4x2
+Li header-4x2
+Cd Header: 4x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-5x2
+Li header-5x2
+Cd Header: 5x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-6x2
+Li header-6x2
+Cd Header: 6x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-7x2
+Li header-7x2
+Cd Header: 7x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-8x2
+Li header-8x2
+Cd Header: 8x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-9x2
+Li header-9x2
+Cd Header: 9x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-10x2
+Li header-10x2
+Cd Header: 10x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-11x2
+Li header-11x2
+Cd Header: 11x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-12x2
+Li header-12x2
+Cd Header: 12x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-13x2
+Li header-13x2
+Cd Header: 13x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-14x2
+Li header-14x2
+Cd Header: 14x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-15x2
+Li header-15x2
+Cd Header: 15x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-16x2
+Li header-16x2
+Cd Header: 16x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-17x2
+Li header-17x2
+Cd Header: 17x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-18x2
+Li header-18x2
+Cd Header: 18x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-19x2
+Li header-19x2
+Cd Header: 19x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-20x2
+Li header-20x2
+Cd Header: 20x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-21x2
+Li header-21x2
+Cd Header: 21x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-22x2
+Li header-22x2
+Cd Header: 22x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-23x2
+Li header-23x2
+Cd Header: 23x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-24x2
+Li header-24x2
+Cd Header: 24x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-25x2
+Li header-25x2
+Cd Header: 25x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-26x2
+Li header-26x2
+Cd Header: 26x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-27x2
+Li header-27x2
+Cd Header: 27x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-28x2
+Li header-28x2
+Cd Header: 28x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-29x2
+Li header-29x2
+Cd Header: 29x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-30x2
+Li header-30x2
+Cd Header: 30x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-31x2
+Li header-31x2
+Cd Header: 31x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-32x2
+Li header-32x2
+Cd Header: 32x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-33x2
+Li header-33x2
+Cd Header: 33x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-34x2
+Li header-34x2
+Cd Header: 34x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-35x2
+Li header-35x2
+Cd Header: 35x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-36x2
+Li header-36x2
+Cd Header: 36x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-37x2
+Li header-37x2
+Cd Header: 37x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-38x2
+Li header-38x2
+Cd Header: 38x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-39x2
+Li header-39x2
+Cd Header: 39x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-40x2
+Li header-40x2
+Cd Header: 40x2 Pins
+Kw Headers
+$EndMODULE
+#
+$MODULE header-4
+Li header-4
+Cd Header: 4 Pins
 Kw Headers
 $EndMODULE
 #

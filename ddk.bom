@@ -1,0 +1,75 @@
+ref	value
+C1	0.1uF
+C2	0.1uF
+C3	22pF
+C4	22pF
+C5	1uF
+C6	1uF
+C7	1uF
+C8	1uF
+C9	1uF
+Conn1:CONN_USB	PCB mountable USB Type B connector
+D1:PWR LED-Red-5mm
+D2	3.6V Zener
+D3:PGM LED-Green-5mm
+D4	3.6V Zener
+D5	5V Zener
+D6:B0 LED-Yellow-5mm
+D7:B1 LED-Yellow-5mm
+D8:B2 LED-Yellow-5mm
+D9:B3 LED-Yellow-5mm
+D10:B4 LED-Yellow-5mm
+D11:B5 LED-Yellow-5mm
+D12:B6 LED-Yellow-5mm
+D13:B7 LED-Yellow-5mm
+IC1:ATMEGA16/32-P 40-pin IC Base
+IC2	4094N
+J2	PCB mountable right angle DB9 Female
+//JP1	BL 3-pin header
+//JP2	RX 3-pin header
+//LCD1:LCD_2X16_SIL with 16-pin header	(EDDK)
+P1	Vin 2-pin Relay Mate Male Box connector	(EDDK)
+//P4	GND 8-pin header
+P5	PA7-0 8-pin Relay Mate Male non-Box connector
+P6	PC0-7 8-pin Relay Mate Male non-Box connector
+//P7	INPUT 8-pin header
+//P8	OUTPUT 8-pin header
+P9	Vmo 2-pin Relay Mate Male Box connector
+R1	150R
+R2	1.5K
+R3	12K
+R4	150R
+R5	68R
+R6	68R
+R7	1.5K
+R8	150R
+R9	150R
+R10	150R
+R11	150R
+R12	150R
+R13	150R
+R14	150R
+R15	150R
+R16	0R
+R17	12K
+RV1:CONT 10K-Pot-3386	(EDDK)
+RV2:BRGT 1K-Pot-3386	(EDDK)
+//SW1:USB-PWR 3-pin header
+SW2:BUTTON Switch-Black
+SW3:RESET Switch-Red
+U1	LM7805	(EDDK)
+U2	ULN2003
+U3	MAX232
+U4	LM7805
+X1	16MHz crystal
+
+Additional parts:
++ 1 ATMEGA16
++ 2 Jumpers
++ 1 1x40 Header Pins
++ 1 1x40 Header Pins	(EDDK)
++ 1 2x16 Character LCD_2X16	(EDDK)
++ 1 Serial Male to Female Cable
++ 1 USB Type A to Type B Cable
++ 4 5/8" spacers (for stand)
++ 4 screws (for the spacers)

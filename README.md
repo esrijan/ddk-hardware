@@ -20,19 +20,21 @@ corresponding kicad files, along with the following in capital letters:
 + LICENSE - project's license file
 
 + libs - additional libraries used apart from the default kicad installation
-+ usb_driver_kit.pro - kicad project file
-+ usb_driver_kit.net - netlist file
-+ usb_driver_kit.sch - schematic (eeschema) file
-+ usb_driver_kit.cmp - component mapping (cvpcb) file
-+ usb_driver_kit.brd - board layout (pcbnew) file
-+ usb_driver_kit-Component* - component layer output files
-+ usb_driver_kit-Copper* - copper layer output files
-+ usb_driver_kit-Mask* - mask output files
-+ usb_driver_kit-SilkS* - silk screen output files
++ ddk.pro - kicad project file
++ ddk.net - netlist file
++ ddk.sch - schematic (eeschema) file
++ ddk.cmp - component mapping (cvpcb) file. Also, updated from pcbnew.
++ ddk.brd - board layout (pcbnew) file
++ ddk-Front* - front component layer output files (using pcbnew plot)
++ ddk-Back* - back copper layer output files (using pcbnew plot)
++ ddk-Mask* - mask output files (using pcbnew plot)
++ ddk-SilkS* - silk screen output files (using pcbnew plot)
++ ddk-drl.* - drill size output files (using pcbnew plot)
 
-+ usb_driver_kit.pdf - schematic explicitly generated in .ps (-> .pdf) using eeschema
-+ usb_driver_kit.lst - components list explicitly generated using eeschema
-+ usb_driver_kit_soldering.lst - updated components list from soldering requirement angle
-+ usb_driver_kit.stf - component detailing explicitly generated using cvpcb for
++ ddk.pdf - schematic explicitly generated in .ps (-> .pdf) using eeschema plot
++ ddk.lst - components list explicitly generated using eeschema
++ ddk.stf - component detailing explicitly generated using cvpcb for
 	back-annotating into eeschema
-+ usb_driver_kit.drl - drill file explicitly generated using kicad
++ ddk.drl - drill file explicitly generated using pcbnew plot
++ ddk.csv - BOM explicitly generated using pcbnew
++ ddk.bom - updated BOM from soldering requirement angle (not yet updated for DDK v2.0)
