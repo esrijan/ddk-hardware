@@ -1,4 +1,4 @@
-eeschema (2010-03-13)-final  >> Creation date: Wednesday 13 February 2013 04:58:03 AM IST
+eeschema (2010-03-13)-final  >> Creation date: Tuesday 19 March 2013 03:54:44 PM IST
 
 #Cmp ( order = Reference )
 | BT1        BATTERY     
@@ -27,7 +27,7 @@ eeschema (2010-03-13)-final  >> Creation date: Wednesday 13 February 2013 04:58:
 | D12        B6          
 | D13        B7          
 | D14        IR          
-| D15        G_PROT      
+| D15        R_PROT      
 | IC1        ATMEGA16/32 
 | IC2        4094N       
 | IC3        DS1307      
@@ -64,6 +64,7 @@ eeschema (2010-03-13)-final  >> Creation date: Wednesday 13 February 2013 04:58:
 | R17        150R        
 | R18        22K         
 | R19        22K         
+| R20        39K         
 | RV1        CONT-1K     
 | RV2        BRGT-10K    
 | SW1        POWER       
@@ -108,6 +109,7 @@ eeschema (2010-03-13)-final  >> Creation date: Wednesday 13 February 2013 04:58:
 | 3.3V         D4        
 | 32.768KHz    X2        
 | 39K          R3        
+| 39K          R20       
 | 4094N        IC2       
 | 68R          R5        
 | 68R          R6        
@@ -131,7 +133,6 @@ eeschema (2010-03-13)-final  >> Creation date: Wednesday 13 February 2013 04:58:
 | DIGITAL 2    P11       
 | DOWNLOAD     SW4       
 | DS1307       IC3       
-| G_PROT       D15       
 | GND (0V)     P4        
 | ICSP         P13       
 | IR           D14       
@@ -144,6 +145,7 @@ eeschema (2010-03-13)-final  >> Creation date: Wednesday 13 February 2013 04:58:
 | POWER        P9        
 | POWER        SW1       
 | PWR          D1        
+| R_PROT       D15       
 | RESET        SW3       
 | RX           JP1       
 | TX           JP2       

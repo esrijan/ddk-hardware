@@ -1,15 +1,15 @@
 PCBNEW-LibModule-V1  Tuesday 12 February 2013 02:50:21 PM IST
 $INDEX
-oshw_logo
-oshw_pcb_logo
+oshw_logo_boundary
+oshw_pcb_logo_boundary
 $EndINDEX
-$MODULE oshw_logo
+$MODULE oshw_logo_boundary
 Po 0 0 0 15 00000000 00000000 ~~
-Li oshw_logo
+Li oshw_logo_boundary
 Sc 00000000
 AR 
 Op 0 0 0
-T0 0 2652 228 228 0 45 N I 21 N"oshw_logo"
+T0 0 2652 228 228 0 45 N I 21 N"oshw_logo_boundary"
 T1 0 -2652 228 228 0 45 N I 21 N"G***"
 DP 0 0 0 0 277 1 21
 Dl -1516 2246
@@ -289,14 +289,14 @@ Dl -1664 2115
 Dl -1590 2183
 Dl -1538 2229
 Dl -1516 2246
-$EndMODULE  oshw_logo
-$MODULE oshw_pcb_logo
+$EndMODULE  oshw_logo_boundary
+$MODULE oshw_pcb_logo_boundary
 Po 0 0 0 15 00000000 00000000 ~~
-Li oshw_pcb_logo
+Li oshw_pcb_logo_boundary
 Sc 00000000
 AR 
 Op 0 0 0
-T0 0 2652 228 228 0 45 N I 21 N"oshw_pcb_logo"
+T0 0 2652 228 228 0 45 N I 21 N"oshw_pcb_logo_boundary"
 T1 0 -2652 228 228 0 45 N I 21 N"G***"
 DP 0 0 0 0 277 1 15
 Dl -1516 2246
@@ -576,5 +576,5 @@ Dl -1664 2115
 Dl -1590 2183
 Dl -1538 2229
 Dl -1516 2246
-$EndMODULE  oshw_pcb_logo
+$EndMODULE  oshw_pcb_logo_boundary
 $EndLIBRARY

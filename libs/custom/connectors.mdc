@@ -1,0 +1,9 @@
+PCBNEW-LibDoc----V1  Sunday 10 March 2013 03:18:07 PM IST
+#
+$MODULE db9f
+Li db9f
+Cd PCB mountable DB9 female connector
+Kw CONN DB9
+$EndMODULE
+#
+$EndLIBDOC

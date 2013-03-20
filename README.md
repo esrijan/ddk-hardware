@@ -37,4 +37,7 @@ corresponding kicad files, along with the following in capital letters:
 	back-annotating into eeschema
 + ddk.drl - drill file explicitly generated using pcbnew plot
 + ddk.csv - BOM explicitly generated using pcbnew
-+ ddk.bom - updated BOM from soldering requirement angle (not yet updated for DDK v2.0)
++ ddk.bom - updated BOM from soldering requirement angle (not yet updated for DDK v2.1)
+
++ PDFs - links to the specific pdfs sent out for fabrication
++ Gerbers - links to the specific gerbers sent out for fabrication

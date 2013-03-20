@@ -1,4 +1,4 @@
-Cmp-Mod V01 Genere par PcbNew le Friday 15 February 2013 10:50:34 PM IST
+Cmp-Mod V01 Genere par PcbNew le Tuesday 19 March 2013 04:18:27 PM IST
 
 BeginCmp
 TimeStamp = 51077CD4
@@ -140,7 +140,7 @@ BeginCmp
 TimeStamp = 51077CEE
 Path = /50D1BD58
 Reference = D15;
-ValeurCmp = G_PROT;
+ValeurCmp = R_PROT;
 IdModule  = D5;
 EndCmp
 
@@ -158,14 +158,6 @@ Path = /4CCE8ECD
 Reference = D2;
 ValeurCmp = 3.3V;
 IdModule  = D5;
-EndCmp
-
-BeginCmp
-TimeStamp = 51077CF4
-Path = /4CCEBA18
-Reference = J2;
-ValeurCmp = DB9;
-IdModule  = DB9FD;
 EndCmp
 
 BeginCmp
@@ -585,22 +577,6 @@ IdModule  = header-4;
 EndCmp
 
 BeginCmp
-TimeStamp = 511A0B34
-Path = 
-Reference = oshw_logo;
-ValeurCmp = G***;
-IdModule  = oshw_logo;
-EndCmp
-
-BeginCmp
-TimeStamp = 511B321E
-Path = 
-Reference = oshw_pcb_logo;
-ValeurCmp = G***;
-IdModule  = oshw_pcb_logo;
-EndCmp
-
-BeginCmp
 TimeStamp = 511B9BF2
 Path = 
 Reference = G***;
@@ -617,18 +593,50 @@ IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = 511B9919
-Path = 
-Reference = oshw_pcb_logo;
-ValeurCmp = G***;
-IdModule  = oshw_pcb_logo;
-EndCmp
-
-BeginCmp
 TimeStamp = 511B9A77
 Path = 
 Reference = G***;
 ValeurCmp = esrijan_flipped_logo_7;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = 513C5736
+Path = /513C1935
+Reference = R20;
+ValeurCmp = 39K;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = 513C5ED4
+Path = /4CCEBA18
+Reference = J2;
+ValeurCmp = DB9;
+IdModule  = db9f;
+EndCmp
+
+BeginCmp
+TimeStamp = 51456CB4
+Path = 
+Reference = G***;
+ValeurCmp = oshw_logo;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = 5145782D
+Path = 
+Reference = G***;
+ValeurCmp = oshw_pcb_logo;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = 514578B1
+Path = 
+Reference = G***;
+ValeurCmp = oshw_pcb_logo;
 IdModule  = ;
 EndCmp
 

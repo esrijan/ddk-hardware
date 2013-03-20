@@ -1,4 +1,4 @@
-update=Wednesday 13 February 2013 07:17:26 PM IST
+update=Sunday 17 March 2013 12:39:32 PM IST
 last_client=pcbnew
 [common]
 NetDir=
@@ -6,11 +6,6 @@ NetDir=
 version=1
 RootSch=
 BoardNm=
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [eeschema]
 version=1
 LibDir=libs
@@ -81,6 +76,11 @@ LibName31=siliconi
 LibName32=contrib
 LibName33=valves
 LibName34=converted/dallas
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [pcbnew]
 version=1
 PadDrlX=1200
@@ -128,5 +128,6 @@ LibName20=custom/switches
 LibName21=custom/crystals
 LibName22=custom/batteries
 LibName23=custom/dip_ics
-LibName24=oshw_logo/oshw_logo
-LibName25=custom/esrijan_logo
+LibName24=custom/esrijan_logo
+LibName25=custom/connectors
+LibName26=custom/oshw_logo
